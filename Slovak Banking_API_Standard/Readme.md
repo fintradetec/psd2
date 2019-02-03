@@ -1,8 +1,10 @@
-Slovakia Banking API Standard
+# Slovakia Banking API Standard
 
 The new EU-Council Directive (EU), 2015/2366 on Internal Market Payment Services (PSD2), has created a single legislative framework for the entry of new payment service providers (third parties or Third Party Providers) into the European financial services market. 
 
-These providers may, after meeting certain conditions, provide three new types of services to clients of banks:
+## Objectives
+
+New Payment or Third Party providers may, after meeting certain conditions, provide three new types of services to clients of banks:
 
 * account information services (AIS),
 * Payment Initiation Services (PIS),
@@ -20,17 +22,11 @@ The Standard defines secure communication between the TPP and the ASPSP and betw
 
 The Standard does not describe the process of strong authentication of the ASPSP's (PSU) customer's payment service user (SCA) with the ASPSP itself. The SCA process drawn in the process flow of the individual processes diagrams serves for demonstration purposes and a better understanding of process flow. The SCA process is not part of this standard.
 
-### When is it binding (Entry into force)?
+## When is it binding - Entry into force
 
 The Sloval Banking API Standard enters into force on the date specified in the Directive (EU) 2015/2366 of the European Parliament and of the Council on payment services in the internal market.
 
-## License
+# References: 
 
-Slovak banking association grants to users of Slovak banking API standard a non-exclusive, royalty free, worldwide copyright license to reproduce, prepare derivative works from, distribute, perform and display, this Slovak banking API standard solely for the purposes of developing and implementing relevant applications and APIs.
-
-Provided that attribution be made to Slovak banking association as the source of the material but that such attribution does not indicate an endorsement by Slovak banking association.
-
-Reference: 
-
-[Slovak Banking Api Standard v1.0](https://www.sbaonline.sk/Content/files/projects/slovak-banking-api-standard-1_0.pdf)
-[Slovak Banking Payment Services Legislation](https://www.finance.gov.sk/en/finance/financial-market/banking-payment-services/legislation/)
+* [Slovak Banking Api Standard v1.0](https://www.sbaonline.sk/Content/files/projects/slovak-banking-api-standard-1_0.pdf)
+* [Slovak Banking Payment Services Legislation](https://www.finance.gov.sk/en/finance/financial-market/banking-payment-services/legislation/)
