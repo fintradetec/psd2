@@ -1,6 +1,6 @@
-# European and Non-EU PSD2 oriented Open Banking API Standards Collection 
+# Open Banking API Standards Collection, including European and Non-EU PSD2 oriented Standards and Frameworks
 
-The Repository provides the collection of European PSD2 and non Europen PSD2 equals, as well Open Banking API Standards. 
+The Repository provides the collection of European PSD2 and non Europen PSD2 equals, as well references to current Open Banking API Standards with world wide applications. 
 
 Open Banking API standards cover additional financial product and security aspects, additional to the current PSD2 scope for Payment and Account Services. 
 
