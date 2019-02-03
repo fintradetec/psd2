@@ -12,6 +12,8 @@ These standards are issued on an individual basis by either Financial markets pa
 - UK Open Banking API
 - Open Bank Projekt
 - W3C Payments
+- Slovak Banking API
+- OpenID FAPI
 
 Please, be aware that each standard has an individual Copyright, and should be applied accordingly. All other information provided as stated within the repository is AGPL 2018, 2019.
 
