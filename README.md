@@ -43,8 +43,8 @@ An Open Banking API Standard could, therefore, include some or all of the follow
 - Public Market Data
 
 ### Current Open Banking API Standards
-* Open Bank Project API (openbankproject.com)
-* Open ID Financial Grade API (openid.com)
+* Open Bank Project API (OBP API, openbankproject.com)
+* Open ID Financial Grade API (FAPI, openid.com)
 
 
 ## PSD2 Standards
@@ -73,7 +73,6 @@ In some EU countries this is understood as a separate topic.
 - POLAND API
 - UK Open Banking API
 - Slovak Banking API
-- OpenID FAPI
 
 ## Frameworks - European Union
 
