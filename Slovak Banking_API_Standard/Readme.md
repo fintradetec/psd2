@@ -14,11 +14,11 @@ The European Commission, which was the initiator of the PSD2 directive, sought t
 
 The PSD2 Directive was transposed into Slovakia into the Act on Payment Services (492/2009), the amendment of which is valid from 13 January 2018. Based on its requirements that banks from 13 January 2018 must allow communication with third parties in the provision of the relevant services, the Slovak Banking Association decided together with its members to prepare a voluntary standard of communication between banks and third parties in the form of Application Programming Interface (API)
 
-### What is includes (RPP, ASPSP, PSU)
+### Slovakia Banking API Standard includes definitions for RPP, ASPSP, PSU
 
 The Standard defines secure communication between the TPP and the ASPSP and between the PSU and the ASPSP, in particular to ensure the integrity of the transmitted data and the identity of the communicating entities.
 
-### What it does not include (SCA)
+### Slovakia Banking API Standard does not include for SCA
 
 The Standard does not describe the process of strong authentication of the ASPSP's (PSU) customer's payment service user (SCA) with the ASPSP itself. The SCA process drawn in the process flow of the individual processes diagrams serves for demonstration purposes and a better understanding of process flow. The SCA process is not part of this standard.
 
