@@ -82,8 +82,7 @@ Both global standards are Open Source Open Banking API Standards, and actively w
 
 One Standard (W3C Payments) is a pure (nonfinancial) and specialist industry payment standard, and has a narrow scope - Web Payments.
 
-The mentioned Payment & Accounts Framework is a (non-public) private club of financial market participants with the objective to find an acceptable and common ground between all parties. Communication is limited to closed circle dialogs, publications are limited to one webpage.
-As the word framework suggests, it has interpretation room, and so fare provided API information (e.g. YAML v1.3) questions the capability to achieve this goal (number of errors, completeness, references to standards used within). Even so, some Non-EU countries consider its implication, but at the moment its difficult to find any binding references.
+The mentioned Payment & Accounts Framework is a (non-public) private club of financial market participants with the objective to find an acceptable and common ground between all parties. Communication is limited to closed circle dialogs, publications are limited to one webpage. As the word framework suggests, it has interpretation room, and so fare provided API information (e.g. YAML v1.3.2) provides interpretation room.
 
 Please, be aware that each standard mentioned above and framework has an individual Copyright, and should be applied accordingly. All other information provided as stated within the repository is AGPL 2018, 2019.
 
