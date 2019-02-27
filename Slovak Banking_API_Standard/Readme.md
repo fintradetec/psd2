@@ -18,6 +18,10 @@ The PSD2 Directive was transposed into Slovakia into the Act on Payment Services
 
 The Standard defines secure communication between the TPP and the ASPSP and between the PSU and the ASPSP, in particular to ensure the integrity of the transmitted data and the identity of the communicating entities.
 
+### Github Repository
+
+* https://github.com/Czech-BA/COBS
+
 ### Slovakia Banking API Standard does not include for SCA
 
 The Standard does not describe the process of strong authentication of the ASPSP's (PSU) customer's payment service user (SCA) with the ASPSP itself. The SCA process drawn in the process flow of the individual processes diagrams serves for demonstration purposes and a better understanding of process flow. The SCA process is not part of this standard.
