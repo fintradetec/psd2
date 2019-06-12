@@ -1,5 +1,5 @@
 
-STET PSD2 API V1.4
+# STET PSD2 API V1.4
 
 Created accordingly to the new Payment Services Directive (PSD2), this API aims to provide a secure and easy-to-use set of services to be implemented by European ASPSPs (Account Servicing Payment Service Providers) on the server side for:
 
